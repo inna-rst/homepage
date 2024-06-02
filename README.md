@@ -1,3 +1,2 @@
-# homepage
-# résumé
+# homepage-résumé
 My first personal website. Basically it is just a résumé.
